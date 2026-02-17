@@ -103,7 +103,7 @@ Explore all features without connecting your own database. A pre-configured demo
 
   **Version:** 1.0.0 | **Platform:** Windows 10/11 (64-bit) | **Size:** ~73 MB
 
-  [![Download Latest](https://img.shields.io/badge/⬇️%20Download%20Latest%20Release-yellow?style=for-the-badge)](https://github.com/wesleydavidsantos/viewself/releases/latest/download/ViewSelf-Setup.exe)
+  [![Download Latest](https://img.shields.io/badge/⬇️%20Download%20Latest%20Release-yellow?style=for-the-badge)](https://github.com/wesleydavidsantos/viewself/releases/latest/download/ViewSelf.exe)
 
 </div>
 
