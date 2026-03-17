@@ -7,7 +7,7 @@
   <p>Real-time sessions, SQL performance, tablespace, backups and more — no database objects required.</p>
 
   [![Download](https://img.shields.io/badge/Download-Free%20Trial-yellow?style=for-the-badge)](https://viewself.com/download)
-  [![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)](https://github.com/wesleydavidsantos/viewself/releases/latest)
+  [![Version](https://img.shields.io/badge/Version-1.0.1-blue?style=for-the-badge)](https://github.com/wesleydavidsantos/viewself/releases/latest)
   [![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-lightgrey?style=for-the-badge)](https://viewself.com/download)
   [![Trial](https://img.shields.io/badge/Trial-30%20Days%20Free-green?style=for-the-badge)](https://viewself.com/download)
 
@@ -28,14 +28,13 @@
 
 ViewSelf is a desktop application for Oracle DBAs who need **deep visibility without complexity**. Unlike enterprise tools that cost hundreds of dollars per month and require invasive database installations, ViewSelf connects with read-only access and is up and running in under 10 minutes.
 
-| | Traditional Tools | ViewSelf |
-|---|---|---|
-| 💰 **Cost** | $125–950/month | Starting at $9/month |
-| 🔧 **Installation** | Requires DB objects | Zero — read-only access only |
-| ⏱️ **Setup Time** | Hours to days | Under 10 minutes |
-| 🌐 **Languages** | English only | English, Portuguese & Spanish |
-| 🧪 **Trial** | Credit card required | 30 days free, no card needed |
-| 🖥️ **Interface** | Outdated and complex | Modern and intuitive |
+| | ViewSelf |
+|---|---|
+| 🔧 **Installation** | Local in your environment |
+| ⏱️ **Setup Time** | Under 10 minutes |
+| 🌐 **Languages** | English, Portuguese & Spanish |
+| 🧪 **Trial** | 30 days free, no card needed |
+| 🖥️ **Interface** | Modern and intuitive |
 
 ---
 
@@ -101,7 +100,7 @@ Explore all features without connecting your own database. A pre-configured demo
 
   ### ➡️ [viewself.com/download](https://viewself.com/download)
 
-  **Version:** 1.0.0 | **Platform:** Windows 10/11 (64-bit) | **Size:** ~73 MB
+  **Version:** 1.0.0 | **Platform:** Windows 10/11 (64-bit) | **Size:** ~95 MB
 
   [![Download Latest](https://img.shields.io/badge/⬇️%20Download%20Latest%20Release-yellow?style=for-the-badge)](https://github.com/wesleydavidsantos/viewself/releases/latest/download/ViewSelf.exe)
 
