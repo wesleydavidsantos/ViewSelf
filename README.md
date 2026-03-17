@@ -36,7 +36,7 @@ ViewSelf is a desktop application for Oracle DBAs who need **deep visibility wit
 
 | | ViewSelf |
 |---|---|
-| 🔧 **Installation** | Local in your environment |
+| 🔧 **Installation** | On-premises - Locally installed, data stays in your environment  |
 | ⏱️ **Setup Time** | Under 10 minutes |
 | 🌐 **Languages** | English, Portuguese & Spanish |
 | 🧪 **Trial** | 30 days free, no card needed |
