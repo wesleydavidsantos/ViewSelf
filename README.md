@@ -15,6 +15,12 @@
 
 ---
 
+## ➡️ Download
+
+Link Download => [https://github.com/wesleydavidsantos/ViewSelf/releases/latest/download/ViewSelf.exe](https://github.com/wesleydavidsantos/ViewSelf/releases/latest/download/ViewSelf.exe)
+
+Link Realease => [https://github.com/wesleydavidsantos/ViewSelf/releases/tag/v1.0.1](https://github.com/wesleydavidsantos/ViewSelf/releases/tag/v1.0.1)
+
 ## 📸 Overview
 
 <div align="center">
