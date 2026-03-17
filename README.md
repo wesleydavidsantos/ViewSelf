@@ -150,17 +150,6 @@ ViewSelf is designed with a **zero-footprint** security philosophy:
 
 ---
 
-## 💲 Pricing
-
-| Plan | Price | Databases | Support |
-|---|---|---|---|
-| **Trial** | Free for 30 days | Up to 5 | Included |
-| **Pro** | Starting at $9/month | Multiple | WhatsApp + Email |
-
-No credit card required for the trial. Cancel anytime.
-
----
-
 ## ❓ FAQ
 
 **Does ViewSelf work with Oracle Standard Edition?**
